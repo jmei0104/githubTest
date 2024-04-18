@@ -1,0 +1,18 @@
+body{
+	background-color:PapayaWhip;
+}
+#myheading {
+	color:FireBrick;
+	text-align:center;
+	background-color:rgb(60,179,113);
+}
+
+	.mypara { 
+	text-align:justify;
+	font-size:20px;
+	text-indent:2em;
+	}
+b,i{
+	color:tomato
+}
+	
